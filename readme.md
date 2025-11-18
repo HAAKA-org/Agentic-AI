@@ -1,9 +1,3 @@
-## README — Agentic AI–Powered RFP Automation System
-
-*(Based on the provided Executive Summary PPT)*
-
----
-
 # **Agentic AI System for Automated RFP Discovery, Analysis & Response**
 
 This repository contains the implementation of a fully autonomous **Agentic AI–driven RFP (Request for Proposal) Automation Platform** designed to transform the traditional, manual, and time-consuming RFP workflow for industrial manufacturing enterprises.
@@ -190,11 +184,22 @@ npm run dev
 
 ---
 
+## **8. Contributors**
+
+* Harlee
+* Ajay
+* Akash
+* Akil
+* Kavin
+* Lochana
+* Nithya
+* Sathya
+
+---
+
 If you want, I can also generate:
 
 * A more detailed architecture diagram
 * Installation guides
 * API documentation
 * A polished README with logos, badges, and formatting
-
-Just say **“Generate advanced README”**.
