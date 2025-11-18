@@ -184,19 +184,6 @@ npm run dev
 
 ---
 
-## **8. Contributors**
-
-* Harlee
-* Ajay
-* Akash
-* Akil
-* Kavin
-* Lochana
-* Nithya
-* Sathya
-
----
-
 If you want, I can also generate:
 
 * A more detailed architecture diagram
