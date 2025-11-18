@@ -191,15 +191,3 @@ npm run dev
 * Akash
 * Akil
 * Kavin
-* Lochana
-* Nithya
-* Sathya
-
----
-
-If you want, I can also generate:
-
-* A more detailed architecture diagram
-* Installation guides
-* API documentation
-* A polished README with logos, badges, and formatting
